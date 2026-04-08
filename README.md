@@ -1,6 +1,6 @@
 ---
 title: Blood Env Environment Server
-emoji: 🥁
+emoji: 🩸
 colorFrom: red
 colorTo: pink
 sdk: docker
