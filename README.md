@@ -1,3 +1,4 @@
+---
 title: Blood Env
 emoji: 🩸
 colorFrom: red
@@ -10,6 +11,7 @@ tags:
   - healthcare
   - supply-chain
   - blood-bank
+---
 🩸 BloodEnv — AI Emergency Blood Logistics
 BloodEnv is a real-world simulation environment for the OpenEnv framework, where AI agents manage a perishable blood supply chain across a network of hospitals to save lives and minimize wastage.
 
